@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working European Office hours from Manila, PH **HR BPO**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI** and you can read about it here: [https://yannemal.art.blog/](https://yannemal.art.blog/)
 
 - 👯 I’m on the lookout for fellow students making their way through [the 100 Days Of Swift and SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
